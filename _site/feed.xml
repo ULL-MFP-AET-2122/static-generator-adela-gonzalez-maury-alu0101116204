@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-18T17:52:12+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AET</title><subtitle>Una tarea de AET</subtitle><author><name>Your Name</name></author><entry><title type="html">Tenis</title><link href="http://localhost:4000/deporte/tenis" rel="alternate" type="text/html" title="Tenis" /><published>2021-11-16T00:00:00+00:00</published><updated>2021-11-16T00:00:00+00:00</updated><id>http://localhost:4000/deporte/tenis</id><content type="html" xml:base="http://localhost:4000/deporte/tenis">&lt;p&gt;Prueba tenis&lt;/p&gt;
+
+&lt;p&gt;Contar historia&lt;/p&gt;
+
+&lt;table&gt;
+  
+    
+    &lt;tr&gt;
+      
+        &lt;th&gt;First name&lt;/th&gt;
+      
+        &lt;th&gt;Last name&lt;/th&gt;
+      
+        &lt;th&gt;Age&lt;/th&gt;
+      
+        &lt;th&gt;Location&lt;/th&gt;
+      
+    &lt;/tr&gt;
+    
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      John
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      35
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      United States
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jane
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      29
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      France
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+    &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jack
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Hill
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      25
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      Australia
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+&lt;/table&gt;</content><author><name>Your Name</name></author><category term="deporte" /><summary type="html">Prueba tenis</summary></entry><entry><title type="html">Clase</title><link href="http://localhost:4000/docencia/clase" rel="alternate" type="text/html" title="Clase" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>http://localhost:4000/docencia/clase</id><content type="html" xml:base="http://localhost:4000/docencia/clase">&lt;h1 id=&quot;clase&quot;&gt;Clase&lt;/h1&gt;
+
+&lt;p&gt;Clase del Jueves 11/11/2021&lt;/p&gt;
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]</content><author><name>Your Name</name></author><category term="docencia" /><summary type="html">Clase</summary></entry><entry><title type="html">Aprendiendo a hacer blogs</title><link href="http://localhost:4000/blog/aet" rel="alternate" type="text/html" title="Aprendiendo a hacer blogs" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/blog/aet</id><content type="html" xml:base="http://localhost:4000/blog/aet">&lt;h1 id=&quot;martes-09-noviembre-2021&quot;&gt;Martes 09 Noviembre 2021&lt;/h1&gt;
+&lt;h1 id=&quot;un-día-tranquilo&quot;&gt;Un día tranquilo&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer naranjas&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer limones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer papaya&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer plátano&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.ulpgc.es/sites/default/files/ArchivosULPGC/30aniversario/logo_ulpgc_version_vertical_positiva_uso_cotidiano_2_tintas.png&quot; width=&quot;20%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt; un título &lt;/h2&gt;
+&lt;p&gt;Somos 20 alumnos&lt;/p&gt;
+
+&lt;p&gt;Mi usuario de twitter es AdelaGM&lt;/p&gt;
+
+&lt;h3&gt; un título más pequeño &lt;/h3&gt;
+
+&lt;h2 id=&quot;ay-dios-mío-cuánto-de-semana-queda&quot;&gt;Ay dios mío cuánto de semana queda…&lt;/h2&gt;
+
+&lt;p&gt;&amp;lt;!–&lt;/p&gt;
+
+&lt;p&gt;–!&amp;gt;&lt;/p&gt;</content><author><name>Your Name</name></author><category term="blog" /><summary type="html">Martes 09 Noviembre 2021 Un día tranquilo</summary></entry><entry><title type="html">Aprendiendo a usar un Generador Estático</title><link href="http://localhost:4000/docencia/aet" rel="alternate" type="text/html" title="Aprendiendo a usar un Generador Estático" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/docencia/aet</id><content type="html" xml:base="http://localhost:4000/docencia/aet">&lt;h1 id=&quot;por-fin-jueves&quot;&gt;Por fin jueves&lt;/h1&gt;
+
+&lt;p&gt;Hoy aparqué súper lejos y está lloviendo&lt;/p&gt;
+
+&lt;p&gt;Cogi mucha cola porque está lloviendo&lt;/p&gt;
+
+&lt;p&gt;Me aptece un té y una manta porque está lloviendo&lt;/p&gt;</content><author><name>Your Name</name></author><category term="docencia" /><summary type="html">Por fin jueves</summary></entry></feed>
