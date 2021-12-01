@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Docencia"
     url: /docencia
-  - title: "Blog"
-    url: /blog
-  - title: "Deporte"
-    url: /deporte
+  - title: "Clase"
+    url: /clase
+  - title: "Lista"
+    url: /lista
+  - title: "Pruebas"
+    url: /pruebas
+  - title: "Consejos github"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -1,0 +1,21 @@
+---
+title: "Lo relacional"
+---
+
+# ¿Qué es lo relacional y cómo influye en el aprendizaje?
+
+Lo relacional es lo contrario a la soledad. Son conexiones, interacciones de nosotros con el mundo (pudiendo ser personas, seres naturales, objetos tangibles, intangibles). Estas interacciones son las que hacen posible el aprendizaje, que cambia a aquel que aprende. Éste sufre una metamorfosis, se convierte en un ser diferente, un híbrido de aquello que era y aquello que ha incorporado en esa conexión con otro ente. 
+
+Ya Spinoza, siguiendo a Aristóteles, decía que los seres humanos cuando entran en relaciones de amistad entre sí suman potencia, es decir, consiguen llegar más allá de donde individualmente habrían llegado. Y es que en ese encuentro entre las personas cada una pone un poco de sí: de su biografía, de sus creencias o forma de ver el mundo, sus talentos, sus sueños, su sensibilidad, su fuerza o su imaginación. Y de ese cruce entre diferentes surge una mezcla, un horizonte de sentido nuevo y único que llevar con nosotros, esperando a ampliarse un poquito más. Este proceso relacional nos enriquece como personas, nos ayuda a crecer y a abrir nuestra perspectiva.
+
+"El hombre es un ser social por naturaleza" es una frase Aristóteles. Vivimos en sociedad, luego necesitamos relacionarnos con las demás personas y aprender a relacionarse con ellas para sobrevivir en este mundo, ya que, aunque en ocasiones las personas intentamos convencernos de lo contrario, necesitamos de los demás, y eso implica relacionarse o socializar con otras personas. 
+
+“El ingrediente más importante en la fórmula del éxito es saberse llevar bien con los demás”, Theodore Roosevelt. Pero, ¿qué es el éxito? Acudiendo a la RAE encontramos que el éxito, como primera acepción, es el “Resultado feliz de un negocio, actuación, etc.”, pero como segunda acepción encontramos que es la “Buena aceptación que tiene alguien o algo”. Resulta curiosa esta segunda definición, pues nos transmite que el éxito en la vida es tener la capacidad  asumir la vida, tal como es, significa aceptar la realidad, con situaciones agradables o desagradables, sin intentar cambiar o combatir aquello que no podemos controlar. En definitiva, el éxito en sí mismo es conocerse y aceptarse a sí mismo y para ello lo más importante es conocer y aceptar a los demás, es decir, relacionarse.
+
+Las relaciones son como hilos que nos unen a otros, no hay dos iguales. Todas ellas nos nutren y nos hacen crecer como personas, unas son más significativas que otras, más profundas o más efímeras, pero todas dejan alguna huella. Huellas diferentes que nos dan forma y nos conforman. En base a ellas, guardamos experiencias que matizan nuestras relaciones futuras y las huellas que nosotros también dejaremos en otros.
+
+Compartiendo las historias de los objetos traídos, hemos aprendido algo de cada uno y abierto generosamente una puerta para que lo relacional forme parte del conocimiento mutuo. Y es que estos objetos son tan pequeños como importantes: nos vinculan a nuestras raíces (a nuestra infancia, nuestra familia, nuestro entorno natural, a los colegios o institutos donde estudiábamos…), pero también han conseguido relacionarnos a nosotros y nosotras en el presente, como motivos de un mural sobre el que hemos volcado historias, inquietudes, ideas e impresiones. 
+
+Pensar lo relacional nos ha llevado a darnos cuenta, así, de la inmensa suerte que tenemos de ser tan diversos y diversas, de que en este mar de fueguitos (como decía el poema de Galeano) cada uno lleve consigo el fuego de su autenticidad, esperando a avivarse en el contacto con el de los demás o ayudando a prender de nuevo aquellas llamitas que, debido a que la vida tantas veces llena todo de bruma, han estado cerca de apagarse. Por eso es tan importante atesorar el bagaje de lo que ya somos, como compartir su riqueza y mantenerlo bien abierto para que todo lo que consiga hacernos vibrar pase a formar parte de él.  
+ 
+
